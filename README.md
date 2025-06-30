@@ -20,6 +20,7 @@ Explore my verified certificates :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandiran3122/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramachandiran2231@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramx._x) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23E4405F.svg?logo=LeetCode&logoColor=white)]([https://instagram.com/ramx._x](https://www.codechef.com/users/sriram_3122)) 
 
 ---
 
